@@ -1,3 +1,3 @@
-# Personal Website - Into to Computing Finals
+# Personal Website - Introduction to Computing (Finals)
 
 ### Made by: Gino Freud D. Hobayan
