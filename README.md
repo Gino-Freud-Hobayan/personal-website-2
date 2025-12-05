@@ -1,2 +1,3 @@
-# personal-website-2
-personal-website
+# Personal Website - Into to Computing Finals
+
+### Made by: Gino Freud D. Hobayan
