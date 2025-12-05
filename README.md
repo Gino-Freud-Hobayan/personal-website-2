@@ -1,3 +1,5 @@
 # Personal Website - Introduction to Computing (Finals)
 
-### Made by: Gino Freud D. Hobayan
+### Instructor: Percival Fernandez
+
+### Student: Gino Freud D. Hobayan
